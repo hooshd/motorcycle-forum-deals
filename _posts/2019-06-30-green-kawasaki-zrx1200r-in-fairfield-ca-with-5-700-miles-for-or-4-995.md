@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Green Kawasaki ZRX1200R in Fairfield, CA with 5,700 miles for or $4,995'
-author: dan_urbanowicz
+author: dana_hooshmand
 date: '2019-06-30 11:41:47'
 intro_paragraph: >-
   Amazing, original condition Kawasaki ZRX1200R, available on Craigslist. This
