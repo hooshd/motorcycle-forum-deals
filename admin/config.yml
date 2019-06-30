@@ -31,7 +31,7 @@ collections: # A list of collections the CMS should be able to edit
         widget: "select"
         options:
           - { label: "Dana Hooshmand", value: "dana_hooshmand" }
-          - { label: "Deals", value: "motorcycle_forum_deals" }
+          - { label: "Admin", value: "admin" }
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
       - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
