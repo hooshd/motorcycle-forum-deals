@@ -27,6 +27,9 @@ permalink: /:title
 # (used as a hook for styling etc)
 section: true
 
+# enables future time-stamp posts. Also fixes some time zone issues!
+future: true
+
 # set to 'true' to enable Netlify CMS (/admin) in production builds
 netlifycms: true
 
