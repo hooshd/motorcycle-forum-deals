@@ -8,6 +8,8 @@ intro_paragraph: >-
   will definitely be a future collectors item!
 categories: Kawasaki
 ---
+![A ZRX1200R in amazing condition. Low miles. And green!](/assets/img/uploads/create-a-jekyll-and-netlify-website-zrx1200r-pic-2.jpg "A ZRX1200R in amazing condition. Low miles. And green!")
+
 This Kawasaki ZRX1200R (one of the Eddie Lawson Replica machines) is a current — and definitely future — collector's item.
 
 They very rarely come up for sale, so you should jump on this one. A fair price is closer to $3,000 considering the maintenance work that this will need. You should pay about $4,000 for one with all the proper maintenance done.
